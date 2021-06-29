@@ -93,6 +93,7 @@ const scriptSrcUrls = [
 //This is the array that needs added to
 const styleSrcUrls = [
     "https://kit-free.fontawesome.com/",
+    "https://stackpath.bootstrapcdn.com/",
     "https://api.mapbox.com/",
     "https://api.tiles.mapbox.com/",
     "https://fonts.googleapis.com/",
@@ -164,5 +165,5 @@ app.use((err,req,res,next) => {
 const port = process.env.PORT || 3000
 
 app.listen(port, () => {
-    console.log("Serving on port 3000")
+    console.log(`Serving on port ${port}`)
 })
