@@ -1,5 +1,7 @@
 ### [Live Website](https://yelpcamp-pm.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/68249678/124349389-5ba21800-dc0c-11eb-959c-8ea76d20b49b.png)
+
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. \
 This project was created using Node.js, Express, MongoDB, and Bootstrap.
 Features
